@@ -66,7 +66,7 @@ Reliable protocol with the goal of delivering correct data "eventually". Main fe
 * Reliability via positive acknowledgement
 * Congestion control
 
-![TCP Header](http://upload.wikimedia.org/wikipedia/de/thumb/f/fd/TCP_Header.svg/400px-TCP_Header.svg.png)
+![TCP Header](http://systemstechblog.files.wordpress.com/2011/02/tcpheader.jpg)
 
 Includes lots of old-school assumptions and is optimized for slow and very unreliable networks. `TCP_NODELAY` socket option prevents unnecessary 200ms buffering.
 
