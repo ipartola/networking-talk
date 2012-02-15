@@ -34,7 +34,7 @@ IP addresses may be spoofed. This is typically not an issue since routers can us
 * Used by hosts to communicate about the network.
 * Increasingly important for IPv6.
 
-![ICMP header](http://www.cisco.com/image/gif/paws/25885/pmtud_ipfrag_05.gif)
+![ICMP header](http://www.winsocketdotnetworkprogramming.com/winsock2programming/winsock2advancedrawsocket11_files/image002.png)
 
 traceroute uses ICMP by sending packets with increasing TTL value and getting the response.
 
